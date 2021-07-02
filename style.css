@@ -1,0 +1,15 @@
+.welcome-box{
+    color:brown;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Qahiri', sans-serif;
+}
+.owner-box{
+    color: currentColor;
+    font-family: 'Lobster', cursive;
+    size: 35px;
+}
+.name-highlight{
+    color:darkorange;
+    
+}
